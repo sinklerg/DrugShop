@@ -34,7 +34,7 @@ build/libs/RefactorumDrug-1.3.0.jar
 
 ## Важно
 
-Не запускай `gradle clean build` из папки `Desktop`. Команду нужно выполнять из папки, где лежат файлы:
+Не запускайте `gradle clean build` из папки `Desktop`. Команду нужно выполнять из папки, где лежат файлы:
 
 ```text
 build.gradle.kts
