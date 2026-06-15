@@ -14,13 +14,13 @@ build/libs/RefactorumDrug-1.3.0.jar
 
 ## Сборка на Windows
 
-Открой PowerShell или CMD именно в этой папке проекта и выполни:
+Откройте PowerShell или CMD именно в этой папке проекта и выполни:
 
 ```powershell
 .\gradlew.bat clean build
 ```
 
-Или просто запусти файл:
+Или просто запустите файл:
 
 ```text
 build.bat
